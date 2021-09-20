@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josh5555s. My primary development stack is Vue, Express, Node, and PostgreSQL.
 - 👀 I’m interested in contributing to the growing online meditation community space, plus whatever hobby apps I think up.
-- 🌱 I’m currently learning python, the django rest framework, mitmproxy, and computer networking.
+- 🌱 I’m currently learning the django rest framework, mitmproxy, and computer networking.
 - 💞️ I’m looking to collaborate on anything that sounds like a good time.
 - 📫 You can reach me at joshshindler@gmail.com.
 
